@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "KommandoAlternativ": [
+    "source",
+    "lifetime",
+    "1 månad",
+    "konfig"
+  ],
+  "Swishlänkar": {
+    "source": "https://cdn.discordapp.com/attachments/1352383421061795921/1367466298111557692/swish-QR-small_1.png?ex=6814afbb&is=68135e3b&hm=86785b26eafe4be02f9d46f4cfff5354ee1598276d9eeeab3a0ff4260e2a331e&",
+    "lifetime": "https://cdn.discordapp.com/attachments/1352383421061795921/1367466299080315011/swish-QR-small.png?ex=6814afbb&is=68135e3b&hm=46c6f1c917cdc46c085ffd3143d2e9dea9904df4e1feabe008ddc406429929f8&",
+    "1 månad": "https://cdn.discordapp.com/attachments/1352383421061795921/1367466298430197862/swish-QR-small_2.png?ex=6814afbb&is=68135e3b&hm=d887943d950f1d3645ed56cec77d1e5d7777d741313b1b737665f83026d4b06a&",
+    "konfig": "https://cdn.discordapp.com/attachments/1352383421061795921/1367466298774261780/swish-QR-small_3.png?ex=6814afbb&is=68135e3b&hm=202fdeb7889caab0c66e6c3740655d1de3c7c70c470c8e3e09a4b584b40cc6df&"
+  }
+}
