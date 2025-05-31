@@ -1,0 +1,9 @@
+framework: Xenshop
+name: Swish
+version: 1.4
+author: RiktigaTomten
+description: Swish kommando som låter dina kunder få din swish qr kod
+
+mainfile: ./script/main.js
+mainconfig: ./config/config.json
+type: command
